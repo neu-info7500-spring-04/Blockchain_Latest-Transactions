@@ -13,8 +13,7 @@ My React App is a web application built with React and powered by Vite. It displ
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
